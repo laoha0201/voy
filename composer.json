@@ -11,6 +11,12 @@
         "php": "^7.1.3",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
+        "laravel/socialite": "^4.1",
+        "socialiteproviders/qq": "^3.0",
+        "socialiteproviders/weibo": "^3.0",
+        "socialiteproviders/weixin": "^4.0",
+	"socialiteproviders/weixin-web": "^3.0",
+        "laravel/telescope": "^2.0",
         "laravel/tinker": "^1.0",
         "tcg/voyager": "^1.2"
     },
